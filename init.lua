@@ -25,3 +25,5 @@ end
 
 require "lazy_setup"
 require "polish"
+
+vim.opt.shell="/usr/bin/fish"
